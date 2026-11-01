@@ -1,3 +1,5 @@
+![Fantasy castle panorama inspired by Heroes of Might and Magic V](banner.png)
+
 <div align="center">
 
 <h1>phys-winner</h1>
