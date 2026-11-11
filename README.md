@@ -68,10 +68,13 @@ See each repository's README for setup instructions, required game files, compat
 
 ### 🎮 PC → Android / Порты с ПК на Android
 
-- [pc_decomp_homm5](https://github.com/phys-winner/pc_decomp_homm5)
-- [pc_decomp_strhld](https://github.com/phys-winner/pc_decomp_strhld)
-- [pc_decomp_ut3](https://github.com/phys-winner/pc_decomp_ut3)
-- [pc_decomp_void](https://github.com/phys-winner/pc_decomp_void)
+- [Crashday - Redline Edition](https://github.com/phys-winner/pc_decomp_cdre)
+- [Heroes of Might and Magic V](https://github.com/phys-winner/pc_decomp_homm5)
+- [Mahou Shoujo Madoka Magica: Grief Syndrome](https://github.com/phys-winner/pc_decomp_gs)
+- [Stronghold Crusader](https://github.com/phys-winner/pc_decomp_strhld)
+- [The Closing Shift](https://github.com/phys-winner/pc_port_tcs)
+- [The Void](https://github.com/phys-winner/pc_decomp_void)
+- [Unreal Tournament 3](https://github.com/phys-winner/pc_decomp_ut3)
 
 ### 🥽 VR → flat-screen Android / VR-игры на обычном экране
 
