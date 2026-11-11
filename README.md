@@ -11,6 +11,7 @@
   <a href="#english">English</a> ·
   <a href="#russian">Русский</a> ·
   <a href="#projects">Projects / Проекты</a> ·
+  <a href="https://t.me/phys_winner_ports">Telegram</a> ·
   <a href="https://github.com/phys-winner?tab=repositories">All repositories / Все репозитории</a>
 </p>
 
@@ -31,6 +32,8 @@ Hi! I'm **phys-winner**, a developer working on game ports and adaptations for A
 - **⚙️ ARM32 → ARM64.** I create compatibility modifications to help older 32-bit Android games run on modern ARM64 devices.
 
 I share my projects here so you can follow their development and try available builds.
+
+**My Telegram channel:** [@phys_winner_ports](https://t.me/phys_winner_ports)
 
 ### Support
 
@@ -53,6 +56,8 @@ See each repository's README for setup instructions, required game files, compat
 - **⚙️ ARM32 → ARM64.** Создаю модификации для совместимости старых 32-битных Android-игр с современными устройствами на ARM64.
 
 Здесь я делюсь своими проектами: можно следить за разработкой и пробовать доступные сборки.
+
+**Мой Telegram-канал:** [@phys_winner_ports](https://t.me/phys_winner_ports)
 
 ### Поддержка
 
